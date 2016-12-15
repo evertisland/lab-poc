@@ -1,0 +1,17 @@
+/* BUTTON */
+.button {
+  background-color: rgba(215, 104, 44, 0.8);;
+  border: 3px solid rgba(0,0,0,1);
+  border-radius: 5px;
+  height: 40px;
+  min-width: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  cursor: pointer;
+  text-shadow: 0 0 5px black;
+}
+.button:hover {
+  background-color: rgba(215, 104, 44, 1);;
+}
